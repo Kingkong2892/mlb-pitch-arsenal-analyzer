@@ -30,15 +30,6 @@ From a command perspective, the four-seam fastball and sinker were the most reli
 
 ![Paul Skenes Strike Rate by Pitch](outputs/skenes_strike_rate.png)
 
-## LinkedIn Summary
-
-I built a Python project analyzing Paul Skenes' 2025 pitch arsenal using Statcast data from `pybaseball`.
-
-The analysis looks at pitch usage, average velocity, whiff rate, and strike rate by pitch type. Skenes' profile is built around elite fastball velocity, with his four-seam fastball averaging 98.2 mph and making up 39.5% of his pitch mix. His sinker also averaged 97.6 mph, giving him two high-velocity fastball shapes.
-
-The most interesting finding was the changeup. Even though it made up just 10.8% of his pitches, it produced the highest whiff rate in the arsenal at 22.0%. That gives Skenes a strong swing-and-miss complement to his power fastball approach.
-
-This project helped me practice working with baseball data, cleaning Statcast outputs, building grouped summaries in pandas, and creating visual scouting outputs with matplotlib.
 
 ## Tools Used
 
